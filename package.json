@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/felipeseolin/curso-gempe/issues"
   },
-  "homepage": "https://github.com/felipeseolin/curso-gempe#readme"
+  "homepage": "https://github.com/felipeseolin/curso-gempe#readme",
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
 }
